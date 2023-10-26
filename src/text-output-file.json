@@ -1,0 +1,65 @@
+[
+    {
+        "id": "6d3ccf56-e23f-4882-ac52-6e3d22fbfb04",
+        "title": "camisa",
+        "descripcion": "blanca",
+        "price": 22,
+        "thumbnail": [],
+        "code": 1,
+        "stock": 25
+    },
+    {
+        "id": "17e57a08-91a0-414b-830a-0a0d39effc98",
+        "title": "camisa",
+        "descripcion": "blanca rosa",
+        "price": 22,
+        "thumbnail": [],
+        "code": 2,
+        "stock": 25
+    },
+    {
+        "id": "6b022da6-881b-4ee3-9e9f-c4e00cd432ac",
+        "title": "camisa",
+        "descripcion": "negra",
+        "price": 22,
+        "thumbnail": [],
+        "code": 3,
+        "stock": 25
+    },
+    {
+        "id": "dbebc64e-a578-40f3-a1cc-379155efec6f",
+        "title": "camisa",
+        "descripcion": "gris",
+        "price": 22,
+        "thumbnail": [],
+        "code": 4,
+        "stock": 25
+    },
+    {
+        "id": "5d570c36-5bd2-4d05-8123-10ed23480ffb",
+        "title": "camisa",
+        "descripcion": "azul",
+        "price": 22,
+        "thumbnail": [],
+        "code": 5,
+        "stock": 25
+    },
+    {
+        "id": "83f8407e-2710-42c1-94d6-59c9661d5e3b",
+        "title": "camisa",
+        "descripcion": "azul clara",
+        "price": 22,
+        "thumbnail": [],
+        "code": 6,
+        "stock": 25
+    },
+    {
+        "id": "97e3e127-a665-430e-9ebb-db38e7972164",
+        "title": "camisa",
+        "descripcion": " de lino verde",
+        "price": 12,
+        "thumbnail": [],
+        "code": 8,
+        "stock": 25
+    }
+]
